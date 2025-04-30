@@ -107,9 +107,11 @@ Travelit-website/
 
 ---
 
-## 📸 Screenshots
+## 📸 Demo
 
-> *Add relevant screenshots of homepage, hotel listing, payment, admin panel, etc.*
+▶️ [Click here to watch the demo video](https://drive.google.com/file/d/1hp0EH6aH0D-p81TY_oN9sgmBQYPS-QWn/view?usp=sharing)
+
+> This video demonstrates the core functionality and interface of the Travelit website in action.
 
 ---
 
